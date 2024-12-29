@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Belal Hisham Youssef, a Web Developer and founder of Belsoft Solutions. With expertise in React, Next.js, TypeScript, Node.js, and other modern web technologies,<br>I build scalable and responsive web applications. I love solving complex problems and delivering high-quality code. Check out my repositories to see what I'm working on!<br><br>🌍 Based in Lisbon, Portugal<br>💻 Proficient in React, Next, TypeScript, Tailwind CSS<br>🔗 https://www.belsoftsolutions.com/
+👋 Hi, I'm Belal Hisham Youssef, a software engineer and co-founder of Belsoft Solutions. With expertise in React, Next.js, TypeScript, Node.js, and other modern web technologies,<br>I build scalable and responsive web applications. I love solving complex problems and delivering high-quality code. Check out my repositories to see what I'm working on!<br><br>🌍 Based in Lisbon, Portugal<br>💻 Proficient in React, Next, TypeScript, Tailwind CSS<br>🔗 https://www.belsoftsolutions.com/
 
 
 ## 🌐 Socials:
